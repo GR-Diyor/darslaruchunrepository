@@ -1,0 +1,45 @@
+ 
+ mavzu: Klaviatura va tezkor tugmalar
+
+klaviatura tugmalari 8ga bo'lib o'rganamiz
+1.alifbo
+2.raqamlar
+3.belgilar
+4.Boshqaruv
+5.harakatlantiruvchi
+6.funksional
+7.maxsus 
+8.multimedia
+
+             WINDOWS sistemasi uchun
+
+               winkey+d= Dasturdan chiqish
+               winkey+s= Qidiruv oynasi
+               winkey+i= Sozlamalarga kirish
+               winkey+l= kompyuterni uxlash rejimiga o'tkazish
+               winkey+e= Fayllarga kirish
+               winkey+tab= Foydalangan dasturlarni jadval shaklida ko'rinishi
+               alt+shift= Tilni o'zgartirish
+               alt+f4= Kopmyuterni o'chirish oynasi
+               alt+tab= Oldin foydalanilgan dasturga o'tish
+
+
+  Ctrl [ kontrl ]
+ ctrl + c = nuxsa olish
+ ctrl + v = joylash
+ ctrl + x = ko'chirish 
+
+
+Ctrl+ n = yaratish
+Ctrl + o = ochish
+Ctrl + s = saqlash
+Ctrl + Z = bekor qilish
+Ctrl + r = o'ng tomonga tartiblash
+Ctrl + l = chap tomonga tartiblash
+Ctrl + e = markazga joylash
+Ctrl + j = teng masofada joylash
+Ctrl + a = Barchasini belgilash
+Ctrl + b = Matnni qalinlashtirish
+
+
+
